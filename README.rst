@@ -7,6 +7,7 @@ A simple utility for resolving domain names to IPs in config files
 
 Initially created as a quick hack to handle changing IPs in a pre-orchestrated Docker environment.
 
+Supports Python 3.x only
 
 
 Note
