@@ -2,4 +2,4 @@
 Developers
 ==========
 
-* Predatory Kangaroo <predatory.kangaroo@gmail.com>
+* Lachlan Pease <predatory.kangaroo@gmail.com>

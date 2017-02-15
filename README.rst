@@ -3,13 +3,10 @@ resolve
 =======
 
 
-Add a short description here!
+A simple utility for resolving domain names to IPs in config files
 
+Initially created as a quick hack to handle changing IPs in a pre-orchestrated Docker environment.
 
-Description
-===========
-
-A longer description of your project goes here...
 
 
 Note
